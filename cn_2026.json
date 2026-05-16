@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "country": "CN",
+  "year": 2026,
+
+  "items": [
+
+    {
+      "date": "2026-02-15",
+      "mode": "holiday",
+      "name": "春節"
+    },
+
+    {
+      "date": "2026-02-16",
+      "mode": "holiday",
+      "name": "春節"
+    },
+
+    {
+      "date": "2026-02-17",
+      "mode": "holiday",
+      "name": "春節"
+    },
+
+    {
+      "date": "2026-02-21",
+      "mode": "workday",
+      "name": "春節振替出勤"
+    }
+  ]
+}
