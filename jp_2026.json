@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "country": "JP",
+  "year": 2026,
+
+  "items": [
+
+    {
+      "date": "2026-02-03",
+      "mode": "event",
+      "name": "節分"
+    },
+
+    {
+      "date": "2026-05-04",
+      "mode": "workday",
+      "name": "テスト平日化"
+    },
+
+    {
+      "date": "2026-05-08",
+      "mode": "holiday",
+      "name": "テスト休日"
+    }
+  ]
+}
