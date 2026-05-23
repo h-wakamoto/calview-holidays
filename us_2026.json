@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "country": "US",
+  "year": 2026,
+
+  "items": [
+
+    {
+      "date": "2026-02-10",
+      "mode": "holiday",
+      "name": "California TEST",
+      "subdivisionCode": "US-CA"
+    }
+  ]
+}
