@@ -17,6 +17,12 @@
       "mode": "holiday",
       "name": "California ONLY",
       "subdivisionCode": "US-CA"
+    },
+    {
+      "date": "2026-02-19",
+      "mode": "holiday",
+      "name": "California TEST V3",
+      "subdivisionCode": "US-CA"
     }
   ]
 }
