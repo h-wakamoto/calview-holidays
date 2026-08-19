@@ -1,28 +1,14 @@
 {
-  "version": 3,
+  "version": 4,
   "country": "US",
   "year": 2026,
-
   "items": [
-
-    {
-      "date": "2026-02-11",
-      "mode": "holiday",
-      "name": "California TEST",
-      "subdivisionCode": "US-CA"
-    },
-    {
-
-      "date": "2026-02-18",
-      "mode": "holiday",
-      "name": "California ONLY",
-      "subdivisionCode": "US-CA"
-    },
-    {
-      "date": "2026-02-19",
-      "mode": "holiday",
-      "name": "California TEST V3",
-      "subdivisionCode": "US-CA"
-    }
+    { "date": "2026-02-14", "mode": "event", "name": "Valentine's Day" },
+    { "date": "2026-05-10", "mode": "event", "name": "Mother's Day" },
+    { "date": "2026-06-21", "mode": "event", "name": "Father's Day" },
+    { "date": "2026-10-31", "mode": "event", "name": "Halloween" },
+    { "date": "2026-11-03", "mode": "event", "name": "Election Day" },
+    { "date": "2026-12-24", "mode": "event", "name": "Christmas Eve" },
+    { "date": "2026-12-31", "mode": "event", "name": "New Year's Eve" }
   ]
 }
