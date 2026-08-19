@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "country": "GB",
+  "year": 2026,
+  "items": [
+    { "date": "2026-02-14", "mode": "event", "name": "Valentine's Day" },
+    { "date": "2026-03-15", "mode": "event", "name": "Mothering Sunday" },
+    { "date": "2026-06-21", "mode": "event", "name": "Father's Day" },
+    { "date": "2026-10-31", "mode": "event", "name": "Halloween" },
+    { "date": "2026-11-05", "mode": "event", "name": "Guy Fawkes Night" },
+    { "date": "2026-11-11", "mode": "event", "name": "Remembrance Day" },
+    { "date": "2026-12-24", "mode": "event", "name": "Christmas Eve" },
+    { "date": "2026-12-31", "mode": "event", "name": "New Year's Eve" }
+  ]
+}
