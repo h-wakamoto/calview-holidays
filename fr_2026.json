@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "country": "FR",
+  "year": 2026,
+  "items": [
+    { "date": "2026-02-14", "mode": "event", "name": "Saint-Valentin", "englishName": "Valentine's Day" },
+    { "date": "2026-05-31", "mode": "event", "name": "Fête des Mères", "englishName": "Mother's Day" },
+    { "date": "2026-06-21", "mode": "event", "name": "Fête des Pères", "englishName": "Father's Day" },
+    { "date": "2026-10-31", "mode": "event", "name": "Halloween" },
+    { "date": "2026-12-24", "mode": "event", "name": "Réveillon de Noël", "englishName": "Christmas Eve" },
+    { "date": "2026-12-31", "mode": "event", "name": "Saint-Sylvestre", "englishName": "New Year's Eve" }
+  ]
+}
