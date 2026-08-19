@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "country": "ES",
+  "year": 2026,
+  "items": [
+    { "date": "2026-02-14", "mode": "event", "name": "Día de San Valentín", "englishName": "Valentine's Day" },
+    { "date": "2026-03-19", "mode": "event", "name": "Día del Padre", "englishName": "Father's Day" },
+    { "date": "2026-05-03", "mode": "event", "name": "Día de la Madre", "englishName": "Mother's Day" },
+    { "date": "2026-06-24", "mode": "event", "name": "Noche de San Juan", "englishName": "Saint John's Eve" },
+    { "date": "2026-10-31", "mode": "event", "name": "Halloween" },
+    { "date": "2026-12-24", "mode": "event", "name": "Nochebuena", "englishName": "Christmas Eve" },
+    { "date": "2026-12-31", "mode": "event", "name": "Nochevieja", "englishName": "New Year's Eve" }
+  ]
+}
