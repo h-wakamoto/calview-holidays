@@ -1,38 +1,59 @@
 {
-  "version": 1,
+  "version": 2,
   "country": "CN",
   "year": 2026,
-
   "items": [
+    { "date": "2026-01-01", "mode": "holiday", "name": "元旦假期", "englishName": "New Year Holiday", "isGlobal": true },
+    { "date": "2026-01-02", "mode": "holiday", "name": "元旦假期", "englishName": "New Year Holiday", "isGlobal": true },
+    { "date": "2026-01-03", "mode": "holiday", "name": "元旦假期", "englishName": "New Year Holiday", "isGlobal": true },
+    { "date": "2026-01-04", "mode": "workday", "name": "调休上班", "englishName": "Adjusted Working Day", "isGlobal": true },
 
-    {
-      "date": "2026-02-15",
-      "mode": "holiday",
-      "name": "春節"
-    },
+    { "date": "2026-02-14", "mode": "workday", "name": "调休上班", "englishName": "Adjusted Working Day", "isGlobal": true },
+    { "date": "2026-02-15", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-16", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-17", "mode": "holiday", "name": "春节", "englishName": "Chinese New Year", "isGlobal": true },
+    { "date": "2026-02-18", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-19", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-20", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-21", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-22", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-23", "mode": "holiday", "name": "春节假期", "englishName": "Spring Festival Holiday", "isGlobal": true },
+    { "date": "2026-02-28", "mode": "workday", "name": "调休上班", "englishName": "Adjusted Working Day", "isGlobal": true },
 
-    {
-      "date": "2026-02-16",
-      "mode": "holiday",
-      "name": "春節"
-    },
+    { "date": "2026-03-03", "mode": "event", "name": "元宵节", "englishName": "Lantern Festival" },
 
-    {
-      "date": "2026-02-17",
-      "mode": "holiday",
-      "name": "春節"
-    },
+    { "date": "2026-04-04", "mode": "holiday", "name": "清明节假期", "englishName": "Qingming Festival Holiday", "isGlobal": true },
+    { "date": "2026-04-05", "mode": "holiday", "name": "清明节假期", "englishName": "Qingming Festival Holiday", "isGlobal": true },
+    { "date": "2026-04-06", "mode": "holiday", "name": "清明节假期", "englishName": "Qingming Festival Holiday", "isGlobal": true },
 
-    {
-      "date": "2026-02-27",
-      "mode": "event",
-      "name": "春節振替出勤"
-    },
+    { "date": "2026-05-01", "mode": "holiday", "name": "劳动节假期", "englishName": "Labour Day Holiday", "isGlobal": true },
+    { "date": "2026-05-02", "mode": "holiday", "name": "劳动节假期", "englishName": "Labour Day Holiday", "isGlobal": true },
+    { "date": "2026-05-03", "mode": "holiday", "name": "劳动节假期", "englishName": "Labour Day Holiday", "isGlobal": true },
+    { "date": "2026-05-04", "mode": "holiday", "name": "劳动节假期", "englishName": "Labour Day Holiday", "isGlobal": true },
+    { "date": "2026-05-05", "mode": "holiday", "name": "劳动节假期", "englishName": "Labour Day Holiday", "isGlobal": true },
+    { "date": "2026-05-09", "mode": "workday", "name": "调休上班", "englishName": "Adjusted Working Day", "isGlobal": true },
+    { "date": "2026-05-10", "mode": "event", "name": "母亲节", "englishName": "Mother's Day" },
 
-    {
-      "date": "2026-03-04",
-      "mode": "holiday",
-      "name": "TEST HOLIDAY"
-      }
+    { "date": "2026-06-19", "mode": "holiday", "name": "端午节假期", "englishName": "Dragon Boat Festival Holiday", "isGlobal": true },
+    { "date": "2026-06-20", "mode": "holiday", "name": "端午节假期", "englishName": "Dragon Boat Festival Holiday", "isGlobal": true },
+    { "date": "2026-06-21", "mode": "holiday", "name": "端午节假期", "englishName": "Dragon Boat Festival Holiday", "isGlobal": true },
+    { "date": "2026-06-21", "mode": "event", "name": "父亲节", "englishName": "Father's Day" },
+
+    { "date": "2026-08-19", "mode": "event", "name": "七夕", "englishName": "Qixi Festival" },
+
+    { "date": "2026-09-20", "mode": "workday", "name": "调休上班", "englishName": "Adjusted Working Day", "isGlobal": true },
+    { "date": "2026-09-25", "mode": "holiday", "name": "中秋节假期", "englishName": "Mid-Autumn Festival Holiday", "isGlobal": true },
+    { "date": "2026-09-26", "mode": "holiday", "name": "中秋节假期", "englishName": "Mid-Autumn Festival Holiday", "isGlobal": true },
+    { "date": "2026-09-27", "mode": "holiday", "name": "中秋节假期", "englishName": "Mid-Autumn Festival Holiday", "isGlobal": true },
+
+    { "date": "2026-10-01", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-02", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-03", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-04", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-05", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-06", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-07", "mode": "holiday", "name": "国庆节假期", "englishName": "National Day Holiday", "isGlobal": true },
+    { "date": "2026-10-10", "mode": "workday", "name": "调休上班", "englishName": "Adjusted Working Day", "isGlobal": true },
+    { "date": "2026-10-18", "mode": "event", "name": "重阳节", "englishName": "Double Ninth Festival" }
   ]
 }
