@@ -1,31 +1,18 @@
 {
-  "version": 2,
+  "version": 3,
   "country": "JP",
   "year": 2026,
-
   "items": [
-
-    {
-      "date": "2026-02-03",
-      "mode": "event",
-      "name": "節分"
-    },
-
-    {
-      "date": "2026-05-04",
-      "mode": "workday",
-      "name": "テスト平日化"
-    },
-
-    {
-      "date": "2026-05-08",
-      "mode": "holiday",
-      "name": "テスト休日"
-    },
-    {
-      "date": "2026-12-25",
-      "mode": "holiday",
-      "name": "テストXMAS"
-    }
+    { "date": "2026-02-03", "mode": "event", "name": "節分", "englishName": "Setsubun" },
+    { "date": "2026-02-14", "mode": "event", "name": "バレンタインデー", "englishName": "Valentine's Day" },
+    { "date": "2026-03-03", "mode": "event", "name": "ひな祭り", "englishName": "Doll Festival" },
+    { "date": "2026-05-10", "mode": "event", "name": "母の日", "englishName": "Mother's Day" },
+    { "date": "2026-06-21", "mode": "event", "name": "父の日", "englishName": "Father's Day" },
+    { "date": "2026-07-07", "mode": "event", "name": "七夕", "englishName": "Tanabata" },
+    { "date": "2026-08-13", "mode": "event", "name": "お盆", "englishName": "Obon" },
+    { "date": "2026-09-22", "mode": "holiday", "name": "国民の休日", "englishName": "Citizen's Holiday", "isGlobal": true },
+    { "date": "2026-11-15", "mode": "event", "name": "七五三", "englishName": "Shichi-Go-San" },
+    { "date": "2026-12-24", "mode": "event", "name": "クリスマス・イブ", "englishName": "Christmas Eve" },
+    { "date": "2026-12-31", "mode": "event", "name": "大晦日", "englishName": "New Year's Eve" }
   ]
 }
