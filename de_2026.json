@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "country": "DE",
+  "year": 2026,
+  "items": [
+    { "date": "2026-02-14", "mode": "event", "name": "Valentinstag", "englishName": "Valentine's Day" },
+    { "date": "2026-05-10", "mode": "event", "name": "Muttertag", "englishName": "Mother's Day" },
+    { "date": "2026-05-14", "mode": "event", "name": "Vatertag", "englishName": "Father's Day" },
+    { "date": "2026-10-31", "mode": "event", "name": "Halloween" },
+    { "date": "2026-12-06", "mode": "event", "name": "Nikolaustag", "englishName": "Saint Nicholas Day" },
+    { "date": "2026-12-24", "mode": "event", "name": "Heiligabend", "englishName": "Christmas Eve" },
+    { "date": "2026-12-31", "mode": "event", "name": "Silvester", "englishName": "New Year's Eve" }
+  ]
+}
