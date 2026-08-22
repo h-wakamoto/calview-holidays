@@ -3,10 +3,13 @@
   "country": "IN",
   "year": 2026,
   "items": [
+    { "date": "2026-01-26", "mode": "holiday", "name": "Republic Day" },
     { "date": "2026-02-14", "mode": "event", "name": "Valentine's Day" },
     { "date": "2026-05-10", "mode": "event", "name": "Mother's Day" },
     { "date": "2026-06-21", "mode": "event", "name": "Father's Day" },
+    { "date": "2026-08-15", "mode": "holiday", "name": "Independence Day" },
     { "date": "2026-08-28", "mode": "event", "name": "Raksha Bandhan" },
+    { "date": "2026-10-02", "mode": "holiday", "name": "Mahatma Gandhi's Birthday" },
     { "date": "2026-11-14", "mode": "event", "name": "Children's Day" },
     { "date": "2026-12-24", "mode": "event", "name": "Christmas Eve" },
     { "date": "2026-12-31", "mode": "event", "name": "New Year's Eve" }
