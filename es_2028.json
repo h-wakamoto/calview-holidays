@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "country": "ES",
+  "year": 2028,
+  "items": [
+    {
+      "date": "2028-02-14",
+      "mode": "event",
+      "name": "Día de San Valentín",
+      "englishName": "Valentine's Day"
+    },
+    {
+      "date": "2028-03-19",
+      "mode": "event",
+      "name": "Día del Padre",
+      "englishName": "Father's Day"
+    },
+    {
+      "date": "2028-05-07",
+      "mode": "event",
+      "name": "Día de la Madre",
+      "englishName": "Mother's Day"
+    },
+    {
+      "date": "2028-06-24",
+      "mode": "event",
+      "name": "Noche de San Juan",
+      "englishName": "Saint John's Eve"
+    },
+    {
+      "date": "2028-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2028-12-24",
+      "mode": "event",
+      "name": "Nochebuena",
+      "englishName": "Christmas Eve"
+    },
+    {
+      "date": "2028-12-31",
+      "mode": "event",
+      "name": "Nochevieja",
+      "englishName": "New Year's Eve"
+    }
+  ]
+}

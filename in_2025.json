@@ -1,0 +1,806 @@
+{
+  "version": 2,
+  "country": "IN",
+  "year": 2025,
+  "items": [
+    {
+      "date": "2025-01-26",
+      "mode": "holiday",
+      "name": "Republic Day"
+    },
+    {
+      "date": "2025-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2025-05-11",
+      "mode": "event",
+      "name": "Mother's Day"
+    },
+    {
+      "date": "2025-06-15",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2025-08-15",
+      "mode": "holiday",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2025-08-09",
+      "mode": "event",
+      "name": "Raksha Bandhan"
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Mahatma Gandhi's Birthday"
+    },
+    {
+      "date": "2025-11-14",
+      "mode": "event",
+      "name": "Children's Day"
+    },
+    {
+      "date": "2025-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2025-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    },
+    {
+      "date": "2025-02-26",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-14",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-31",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-10",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-18",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-12",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-07",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-06",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-16",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-05",
+      "mode": "holiday",
+      "name": "Milad-un-Nabi",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Dussehra; Mahatma Gandhi's Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-20",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-02-19",
+      "mode": "holiday",
+      "name": "Chhatrapati Shivaji Maharaj's Jayanti",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-02-26",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-14",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-30",
+      "mode": "holiday",
+      "name": "Gudi Padwa",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-31",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-10",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-18",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-01",
+      "mode": "holiday",
+      "name": "Maharashtra Day",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-12",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-07",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-06",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-15",
+      "mode": "holiday",
+      "name": "Independence Day; Parsi New Year (Shahenshahi)",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-16",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-27",
+      "mode": "holiday",
+      "name": "Ganesh Chaturthi",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-05",
+      "mode": "holiday",
+      "name": "Milad-un-Nabi",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Dussehra; Mahatma Gandhi's Jayanti",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-20",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-22",
+      "mode": "holiday",
+      "name": "Diwali (Bali Pratipada)",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-MH",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-02-26",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-14",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-30",
+      "mode": "holiday",
+      "name": "Ugadi",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-31",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-10",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-18",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-12",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-07",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-06",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-16",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-05",
+      "mode": "holiday",
+      "name": "Milad-un-Nabi",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Dussehra; Mahatma Gandhi's Jayanti",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-20",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-01",
+      "mode": "holiday",
+      "name": "Karnataka Rajyotsava",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-KA",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-01-14",
+      "mode": "holiday",
+      "name": "Pongal",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-01-15",
+      "mode": "holiday",
+      "name": "Thiruvalluvar Day / Mattu Pongal",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-01-16",
+      "mode": "holiday",
+      "name": "Uzhavar Thirunal",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-02-26",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-14",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-31",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-10",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti; Puthandu (Tamil New Year)",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-18",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-12",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-07",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-06",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-16",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-05",
+      "mode": "holiday",
+      "name": "Milad-un-Nabi",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Dussehra; Mahatma Gandhi's Jayanti",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-20",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-TN",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-02-26",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-14",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-31",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-10",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-15",
+      "mode": "holiday",
+      "name": "Pohela Boishakh",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-18",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-09",
+      "mode": "holiday",
+      "name": "Rabindra Jayanti",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-12",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-07",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-06",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-16",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-05",
+      "mode": "holiday",
+      "name": "Milad-un-Nabi",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Dussehra; Mahatma Gandhi's Jayanti",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-20",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-WB",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-02-26",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-14",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-30",
+      "mode": "holiday",
+      "name": "Ugadi",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-03-31",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-10",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-04-18",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-05-12",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-02",
+      "mode": "holiday",
+      "name": "Telangana Formation Day",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-06-07",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-06",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-07-21",
+      "mode": "holiday",
+      "name": "Bonalu",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-08-16",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-05",
+      "mode": "holiday",
+      "name": "Milad-un-Nabi",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-09-21",
+      "mode": "holiday",
+      "name": "Bathukamma Festival",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "Dussehra; Mahatma Gandhi's Jayanti",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-10-20",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    },
+    {
+      "date": "2025-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-TS",
+      "isGlobal": false
+    }
+  ]
+}

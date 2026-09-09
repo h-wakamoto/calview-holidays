@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "country": "GB",
+  "year": 2027,
+  "items": [
+    {
+      "date": "2027-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2027-03-07",
+      "mode": "event",
+      "name": "Mothering Sunday"
+    },
+    {
+      "date": "2027-06-20",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2027-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2027-11-05",
+      "mode": "event",
+      "name": "Guy Fawkes Night"
+    },
+    {
+      "date": "2027-11-11",
+      "mode": "event",
+      "name": "Remembrance Day"
+    },
+    {
+      "date": "2027-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2027-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    }
+  ]
+}

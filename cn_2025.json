@@ -1,0 +1,268 @@
+{
+  "version": 2,
+  "country": "CN",
+  "year": 2025,
+  "items": [
+    {
+      "date": "2025-01-01",
+      "mode": "holiday",
+      "name": "元旦假期",
+      "englishName": "New Year Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-01-26",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-01-28",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-01-29",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-01-30",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-01-31",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-02-01",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-02-02",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-02-03",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-02-04",
+      "mode": "holiday",
+      "name": "春节假期",
+      "englishName": "Spring Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-02-08",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-02-12",
+      "mode": "event",
+      "name": "元宵节",
+      "englishName": "Lantern Festival"
+    },
+    {
+      "date": "2025-04-04",
+      "mode": "holiday",
+      "name": "清明节假期",
+      "englishName": "Qingming Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-04-05",
+      "mode": "holiday",
+      "name": "清明节假期",
+      "englishName": "Qingming Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-04-06",
+      "mode": "holiday",
+      "name": "清明节假期",
+      "englishName": "Qingming Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-04-27",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-05-01",
+      "mode": "holiday",
+      "name": "劳动节假期",
+      "englishName": "Labour Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-05-02",
+      "mode": "holiday",
+      "name": "劳动节假期",
+      "englishName": "Labour Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-05-03",
+      "mode": "holiday",
+      "name": "劳动节假期",
+      "englishName": "Labour Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-05-04",
+      "mode": "holiday",
+      "name": "劳动节假期",
+      "englishName": "Labour Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-05-05",
+      "mode": "holiday",
+      "name": "劳动节假期",
+      "englishName": "Labour Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-05-11",
+      "mode": "event",
+      "name": "母亲节",
+      "englishName": "Mother's Day"
+    },
+    {
+      "date": "2025-05-31",
+      "mode": "holiday",
+      "name": "端午节假期",
+      "englishName": "Dragon Boat Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-06-01",
+      "mode": "holiday",
+      "name": "端午节假期",
+      "englishName": "Dragon Boat Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-06-02",
+      "mode": "holiday",
+      "name": "端午节假期",
+      "englishName": "Dragon Boat Festival Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-06-15",
+      "mode": "event",
+      "name": "父亲节",
+      "englishName": "Father's Day"
+    },
+    {
+      "date": "2025-08-29",
+      "mode": "event",
+      "name": "七夕",
+      "englishName": "Qixi Festival"
+    },
+    {
+      "date": "2025-09-28",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-01",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-02",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-03",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-04",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-05",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-06",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-07",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-08",
+      "mode": "holiday",
+      "name": "中秋节・国庆节假期",
+      "englishName": "Mid-Autumn and National Day Holiday",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-11",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2025-10-29",
+      "mode": "event",
+      "name": "重阳节",
+      "englishName": "Double Ninth Festival"
+    }
+  ]
+}

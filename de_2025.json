@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "country": "DE",
+  "year": 2025,
+  "items": [
+    {
+      "date": "2025-02-14",
+      "mode": "event",
+      "name": "Valentinstag",
+      "englishName": "Valentine's Day"
+    },
+    {
+      "date": "2025-05-11",
+      "mode": "event",
+      "name": "Muttertag",
+      "englishName": "Mother's Day"
+    },
+    {
+      "date": "2025-05-29",
+      "mode": "event",
+      "name": "Vatertag",
+      "englishName": "Father's Day"
+    },
+    {
+      "date": "2025-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2025-12-06",
+      "mode": "event",
+      "name": "Nikolaustag",
+      "englishName": "Saint Nicholas Day"
+    },
+    {
+      "date": "2025-12-24",
+      "mode": "event",
+      "name": "Heiligabend",
+      "englishName": "Christmas Eve"
+    },
+    {
+      "date": "2025-12-31",
+      "mode": "event",
+      "name": "Silvester",
+      "englishName": "New Year's Eve"
+    }
+  ]
+}

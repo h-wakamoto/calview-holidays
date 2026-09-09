@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "country": "IN",
+  "year": 2027,
+  "items": [
+    {
+      "date": "2027-01-26",
+      "mode": "holiday",
+      "name": "Republic Day"
+    },
+    {
+      "date": "2027-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2027-05-09",
+      "mode": "event",
+      "name": "Mother's Day"
+    },
+    {
+      "date": "2027-06-20",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2027-08-15",
+      "mode": "holiday",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2027-08-17",
+      "mode": "event",
+      "name": "Raksha Bandhan"
+    },
+    {
+      "date": "2027-10-02",
+      "mode": "holiday",
+      "name": "Mahatma Gandhi's Birthday"
+    },
+    {
+      "date": "2027-11-14",
+      "mode": "event",
+      "name": "Children's Day"
+    },
+    {
+      "date": "2027-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2027-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    },
+    {
+      "date": "2027-03-06",
+      "mode": "holiday",
+      "name": "Maha Shivaratri",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-03-10",
+      "mode": "holiday",
+      "name": "Id-ul-Fitr",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-03-22",
+      "mode": "holiday",
+      "name": "Holi",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-03-26",
+      "mode": "holiday",
+      "name": "Good Friday",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-04-14",
+      "mode": "holiday",
+      "name": "Dr. B. R. Ambedkar's Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-04-15",
+      "mode": "holiday",
+      "name": "Ram Navami",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-04-18",
+      "mode": "holiday",
+      "name": "Mahavir Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-05-17",
+      "mode": "holiday",
+      "name": "Id-ul-Zuha (Bakrid)",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-05-20",
+      "mode": "holiday",
+      "name": "Buddha Purnima",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-06-16",
+      "mode": "holiday",
+      "name": "Muharram",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-08-15",
+      "mode": "holiday",
+      "name": "Independence Day; Milad-un-Nabi",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-08-25",
+      "mode": "holiday",
+      "name": "Janmashtami (Vaishnava)",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-10-09",
+      "mode": "holiday",
+      "name": "Dussehra",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-10-29",
+      "mode": "holiday",
+      "name": "Diwali (Deepavali)",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-11-14",
+      "mode": "holiday",
+      "name": "Guru Nanak's Jayanti",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    },
+    {
+      "date": "2027-12-25",
+      "mode": "holiday",
+      "name": "Christmas",
+      "subdivisionCode": "IN-DL",
+      "isGlobal": false
+    }
+  ]
+}

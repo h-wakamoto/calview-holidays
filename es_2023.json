@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "country": "ES",
+  "year": 2023,
+  "items": [
+    {
+      "date": "2023-02-14",
+      "mode": "event",
+      "name": "Día de San Valentín",
+      "englishName": "Valentine's Day"
+    },
+    {
+      "date": "2023-03-19",
+      "mode": "event",
+      "name": "Día del Padre",
+      "englishName": "Father's Day"
+    },
+    {
+      "date": "2023-05-07",
+      "mode": "event",
+      "name": "Día de la Madre",
+      "englishName": "Mother's Day"
+    },
+    {
+      "date": "2023-06-24",
+      "mode": "event",
+      "name": "Noche de San Juan",
+      "englishName": "Saint John's Eve"
+    },
+    {
+      "date": "2023-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2023-12-24",
+      "mode": "event",
+      "name": "Nochebuena",
+      "englishName": "Christmas Eve"
+    },
+    {
+      "date": "2023-12-31",
+      "mode": "event",
+      "name": "Nochevieja",
+      "englishName": "New Year's Eve"
+    }
+  ]
+}

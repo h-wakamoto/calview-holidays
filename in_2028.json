@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "country": "IN",
+  "year": 2028,
+  "items": [
+    {
+      "date": "2028-01-26",
+      "mode": "holiday",
+      "name": "Republic Day"
+    },
+    {
+      "date": "2028-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2028-05-14",
+      "mode": "event",
+      "name": "Mother's Day"
+    },
+    {
+      "date": "2028-06-18",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2028-08-15",
+      "mode": "holiday",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2028-08-05",
+      "mode": "event",
+      "name": "Raksha Bandhan"
+    },
+    {
+      "date": "2028-10-02",
+      "mode": "holiday",
+      "name": "Mahatma Gandhi's Birthday"
+    },
+    {
+      "date": "2028-11-14",
+      "mode": "event",
+      "name": "Children's Day"
+    },
+    {
+      "date": "2028-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2028-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 4,
+  "country": "US",
+  "year": 2028,
+  "items": [
+    {
+      "date": "2028-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2028-05-14",
+      "mode": "event",
+      "name": "Mother's Day"
+    },
+    {
+      "date": "2028-06-18",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2028-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2028-11-07",
+      "mode": "event",
+      "name": "Election Day"
+    },
+    {
+      "date": "2028-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2028-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "country": "GB",
+  "year": 2025,
+  "items": [
+    {
+      "date": "2025-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2025-03-30",
+      "mode": "event",
+      "name": "Mothering Sunday"
+    },
+    {
+      "date": "2025-06-15",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2025-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2025-11-05",
+      "mode": "event",
+      "name": "Guy Fawkes Night"
+    },
+    {
+      "date": "2025-11-11",
+      "mode": "event",
+      "name": "Remembrance Day"
+    },
+    {
+      "date": "2025-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2025-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    }
+  ]
+}

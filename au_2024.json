@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "country": "AU",
+  "year": 2024,
+  "items": [
+    {
+      "date": "2024-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2024-05-12",
+      "mode": "event",
+      "name": "Mother's Day"
+    },
+    {
+      "date": "2024-09-01",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2024-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2024-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2024-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    }
+  ]
+}

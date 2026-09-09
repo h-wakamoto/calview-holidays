@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "country": "ES",
+  "year": 2027,
+  "items": [
+    {
+      "date": "2027-02-14",
+      "mode": "event",
+      "name": "Día de San Valentín",
+      "englishName": "Valentine's Day"
+    },
+    {
+      "date": "2027-03-19",
+      "mode": "event",
+      "name": "Día del Padre",
+      "englishName": "Father's Day"
+    },
+    {
+      "date": "2027-05-02",
+      "mode": "event",
+      "name": "Día de la Madre",
+      "englishName": "Mother's Day"
+    },
+    {
+      "date": "2027-06-24",
+      "mode": "event",
+      "name": "Noche de San Juan",
+      "englishName": "Saint John's Eve"
+    },
+    {
+      "date": "2027-10-31",
+      "mode": "event",
+      "name": "Halloween"
+    },
+    {
+      "date": "2027-12-24",
+      "mode": "event",
+      "name": "Nochebuena",
+      "englishName": "Christmas Eve"
+    },
+    {
+      "date": "2027-12-31",
+      "mode": "event",
+      "name": "Nochevieja",
+      "englishName": "New Year's Eve"
+    }
+  ]
+}

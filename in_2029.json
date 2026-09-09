@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "country": "IN",
+  "year": 2029,
+  "items": [
+    {
+      "date": "2029-01-26",
+      "mode": "holiday",
+      "name": "Republic Day"
+    },
+    {
+      "date": "2029-02-14",
+      "mode": "event",
+      "name": "Valentine's Day"
+    },
+    {
+      "date": "2029-05-13",
+      "mode": "event",
+      "name": "Mother's Day"
+    },
+    {
+      "date": "2029-06-17",
+      "mode": "event",
+      "name": "Father's Day"
+    },
+    {
+      "date": "2029-08-15",
+      "mode": "holiday",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2029-08-23",
+      "mode": "event",
+      "name": "Raksha Bandhan"
+    },
+    {
+      "date": "2029-10-02",
+      "mode": "holiday",
+      "name": "Mahatma Gandhi's Birthday"
+    },
+    {
+      "date": "2029-11-14",
+      "mode": "event",
+      "name": "Children's Day"
+    },
+    {
+      "date": "2029-12-24",
+      "mode": "event",
+      "name": "Christmas Eve"
+    },
+    {
+      "date": "2029-12-31",
+      "mode": "event",
+      "name": "New Year's Eve"
+    }
+  ]
+}

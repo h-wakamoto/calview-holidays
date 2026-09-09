@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "country": "JP",
+  "year": 2023,
+  "items": [
+    {
+      "date": "2023-02-03",
+      "mode": "event",
+      "name": "節分",
+      "englishName": "Setsubun"
+    },
+    {
+      "date": "2023-02-14",
+      "mode": "event",
+      "name": "バレンタインデー",
+      "englishName": "Valentine's Day"
+    },
+    {
+      "date": "2023-03-03",
+      "mode": "event",
+      "name": "ひな祭り",
+      "englishName": "Doll Festival"
+    },
+    {
+      "date": "2023-05-14",
+      "mode": "event",
+      "name": "母の日",
+      "englishName": "Mother's Day"
+    },
+    {
+      "date": "2023-06-18",
+      "mode": "event",
+      "name": "父の日",
+      "englishName": "Father's Day"
+    },
+    {
+      "date": "2023-07-07",
+      "mode": "event",
+      "name": "七夕",
+      "englishName": "Tanabata"
+    },
+    {
+      "date": "2023-08-13",
+      "mode": "event",
+      "name": "お盆",
+      "englishName": "Obon"
+    },
+    {
+      "date": "2023-11-15",
+      "mode": "event",
+      "name": "七五三",
+      "englishName": "Shichi-Go-San"
+    },
+    {
+      "date": "2023-12-24",
+      "mode": "event",
+      "name": "クリスマス・イブ",
+      "englishName": "Christmas Eve"
+    },
+    {
+      "date": "2023-12-31",
+      "mode": "event",
+      "name": "大晦日",
+      "englishName": "New Year's Eve"
+    }
+  ]
+}
