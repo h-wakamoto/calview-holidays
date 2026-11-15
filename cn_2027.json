@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "country": "CN",
   "year": 2027,
   "items": [
@@ -11,6 +11,34 @@
       "isGlobal": true
     },
     {
+      "date": "2027-01-02",
+      "mode": "holiday",
+      "name": "元旦",
+      "englishName": "New Year's Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-01-03",
+      "mode": "holiday",
+      "name": "元旦",
+      "englishName": "New Year's Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-01-31",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-05",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
       "date": "2027-02-06",
       "mode": "holiday",
       "name": "春节",
@@ -18,10 +46,80 @@
       "isGlobal": true
     },
     {
+      "date": "2027-02-07",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-08",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-09",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-10",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-11",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-12",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-13",
+      "mode": "holiday",
+      "name": "春节",
+      "englishName": "Chinese New Year",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-02-14",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
       "date": "2027-02-20",
       "mode": "event",
       "name": "元宵节",
       "englishName": "Lantern Festival"
+    },
+    {
+      "date": "2027-04-03",
+      "mode": "holiday",
+      "name": "清明节",
+      "englishName": "Qingming Festival",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-04-04",
+      "mode": "holiday",
+      "name": "清明节",
+      "englishName": "Qingming Festival",
+      "isGlobal": true
     },
     {
       "date": "2027-04-05",
@@ -35,6 +133,41 @@
       "mode": "holiday",
       "name": "劳动节",
       "englishName": "Labour Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-05-02",
+      "mode": "holiday",
+      "name": "劳动节",
+      "englishName": "Labour Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-05-03",
+      "mode": "holiday",
+      "name": "劳动节",
+      "englishName": "Labour Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-05-04",
+      "mode": "holiday",
+      "name": "劳动节",
+      "englishName": "Labour Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-05-05",
+      "mode": "holiday",
+      "name": "劳动节",
+      "englishName": "Labour Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-05-08",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
       "isGlobal": true
     },
     {
@@ -70,7 +203,56 @@
       "isGlobal": true
     },
     {
+      "date": "2027-09-26",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
+    },
+    {
       "date": "2027-10-01",
+      "mode": "holiday",
+      "name": "国庆节",
+      "englishName": "National Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-10-02",
+      "mode": "holiday",
+      "name": "国庆节",
+      "englishName": "National Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-10-03",
+      "mode": "holiday",
+      "name": "国庆节",
+      "englishName": "National Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-10-04",
+      "mode": "holiday",
+      "name": "国庆节",
+      "englishName": "National Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-10-05",
+      "mode": "holiday",
+      "name": "国庆节",
+      "englishName": "National Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-10-06",
+      "mode": "holiday",
+      "name": "国庆节",
+      "englishName": "National Day",
+      "isGlobal": true
+    },
+    {
+      "date": "2027-10-07",
       "mode": "holiday",
       "name": "国庆节",
       "englishName": "National Day",
@@ -81,6 +263,13 @@
       "mode": "event",
       "name": "重阳节",
       "englishName": "Double Ninth Festival"
+    },
+    {
+      "date": "2027-10-09",
+      "mode": "workday",
+      "name": "调休上班",
+      "englishName": "Adjusted Working Day",
+      "isGlobal": true
     }
   ]
 }
